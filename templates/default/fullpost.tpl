@@ -1,0 +1,10 @@
+<html>
+    <div>
+        [posttitle]
+        <br>
+        [problem]</br>
+        [solution]</br>
+        [author]</br>
+        [date]
+    </div>
+</html>

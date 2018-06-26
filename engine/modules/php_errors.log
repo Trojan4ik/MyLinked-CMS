@@ -1,0 +1,753 @@
+[20-Jun-2018 13:20:27 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:27 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:27 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:27 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:27 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:27 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:27 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:27 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:28 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:28 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:29 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:30 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:30 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:52 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:52 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:53 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:53 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 3
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 4
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Warning:  include_once(filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Warning:  include_once(): Failed opening 'filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:20:58 UTC] PHP Fatal error:  Call to undefined function strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 9
+[20-Jun-2018 13:20:58 UTC] PHP Stack trace:
+[20-Jun-2018 13:20:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:43 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:21:43 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:44 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:21:44 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Warning:  include_once(engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Warning:  include_once(): Failed opening 'engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:21:47 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:21:47 UTC] PHP Stack trace:
+[20-Jun-2018 13:21:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(../db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening '../db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(../db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening '../db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(../db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening '../db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:22:29 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:22:29 UTC] PHP Stack trace:
+[20-Jun-2018 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(/engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(): Failed opening '/engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(/engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(): Failed opening '/engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:12 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:12 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Warning:  include_once(/engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Warning:  include_once(): Failed opening '/engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:13 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:13 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Warning:  include_once(/engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Warning:  include_once(): Failed opening '/engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:16 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:16 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:48 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:48 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:49 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:49 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:51 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:51 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:55 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:55 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Warning:  include_once(./engine/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Warning:  include_once(): Failed opening './engine/db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 5
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:23:59 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:23:59 UTC] PHP Stack trace:
+[20-Jun-2018 13:23:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:19 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:25:19 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:22 UTC] PHP Warning:  include_once(engine/config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:22 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:22 UTC] PHP Warning:  include_once(): Failed opening 'engine/config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 6
+[20-Jun-2018 13:25:22 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:22 UTC] PHP Warning:  include_once(engine/filter.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:22 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:22 UTC] PHP Warning:  include_once(): Failed opening 'engine/filter.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/engine/modules/search/search.php on line 7
+[20-Jun-2018 13:25:22 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
+[20-Jun-2018 13:25:22 UTC] PHP Fatal error:  Call to undefined function engine\strip_data() in /home/ubuntu/workspace/engine/modules/search/search.php on line 11
+[20-Jun-2018 13:25:22 UTC] PHP Stack trace:
+[20-Jun-2018 13:25:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/engine/modules/search/search.php:0
