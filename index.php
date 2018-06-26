@@ -20,7 +20,7 @@ session_start();
 //$array = mysql_fetch_assoc($query);
 // if(strcmp(md5($new_pass,$array['password']) == 0)
 
-$secret = '6LdFBl8UAAAAAP2efwNBt5MLD4XyUjFNvy2J9WoX';
+$secret = '6LdFESF$FAdfaerftesg';
 $page = strip_data($_GET['p']);
 $query = strip_data($_GET['q']);
 $activation = strip_data($_GET['activation']);
